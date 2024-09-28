@@ -1,2 +1,2 @@
-# Intro_DS_UNP
-Introducción a Ciencia de Datos con Python
+# Introducción a Ciencia de Datos usando Python
+Introducción a Ciencia de Datos usando Python
