@@ -1,8 +1,13 @@
 <center>![UNP](images/logo_unp_1.png)</center>
+
 # Introducción a Ciencia de Datos usando Python
+
 ---
+
 DOI:xx
+
 ---
+
 |      Profesor                    |           Contacto                      |
 |----------------------------------|--------------------------------------------|
 | ![Zavaleta](images/zavaleta.png) | **Prof. Dr. Jorge Zavaleta**. Departamento de Ciencias Ambientales. Universidad Federal Rural de Rio de Janeiro. Becario del CNPq. Brasil. E-mail: zavaleta.jorge@gmail.com, jorge.zavaleta@ppgi.ufrj.br, [zavaleta@pet-si.ufrrj.br](mailto:zavaleta@pet-si.ufrrj.br) |
