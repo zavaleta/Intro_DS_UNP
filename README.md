@@ -1,4 +1,4 @@
-<center>![UNP](images/logo_unp_1.png)</center>
+![UNP](images/logo_unp_1.png)
 
 # Introducción a Ciencia de Datos usando Python
 
@@ -12,9 +12,6 @@ DOI:xx
 |----------------------------------|--------------------------------------------|
 | ![Zavaleta](images/zavaleta.png) | **Prof. Dr. Jorge Zavaleta**. Departamento de Ciencias Ambientales. Universidad Federal Rural de Rio de Janeiro. Becario del CNPq. Brasil. E-mail: zavaleta.jorge@gmail.com, jorge.zavaleta@ppgi.ufrj.br, [zavaleta@pet-si.ufrrj.br](mailto:zavaleta@pet-si.ufrrj.br) |
 
-
-**Prof. Dr. Jorge Zavaleta**
-Departamento de Ciencias Ambientales. Universidad Federal Rural de Rio de Janeiro y Becario del CNPq. Brasil.
 
 Este curso fue estructurado para proporcionar una base sólida en ciencia de datos, con énfasis en la aplicación práctica de conceptos usando Python. A continuación, se propone una propuesta del curso de actualización en Ciencia de Datos para profesionales de diversas áreas y con poca experiencia en ciencia de datos, centrándose en la parte práctica en el uso de Lenguaje de programación Python.
 
