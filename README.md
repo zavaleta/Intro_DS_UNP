@@ -18,56 +18,58 @@ Este curso fue estructurado para proporcionar una base sólida en ciencia de dat
 ## Semana 1: Introducción a la ciencia de datos
 
 - ¿Qué es la ciencia de datos?
-    * Definición e importancia <a href="pdf/s1_1.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>
-    * Principales áreas de aplicación <a href="pdf/s1_2.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>
+    * Definición e importancia <a href="pdf/M1_1_intro_DS.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>
+    * Principales áreas de aplicación
 - Prácticas con Python
-    * Instalación e configuración de Python <a href="pdf/s1_3.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>
+    * Instalación e configuración de Python
     * Introducción a Markdown <a href="s1_1.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Herramientas y Tecnologías
-    * Introducción a Python y sus librerías (NumPy, Pandas, Matplotlib) <a href="pdf/s1_4.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a> <a href="s1_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Entornos de desarrollo (Jupyter Notebook, Google Colab, Deepnote) <a href="pdf/s1_5.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a> <a href="s1_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Introducción a Python y sus principales librerías:
+    	* NumPy: <a href="pdf/M1_2_numpy.pdf"><img src="images/pdf.png" alt="pdf" width="20"><a href="s1_2_numpy.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    	* Pandas: <a href="pdf/M1_3_pandas.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a> <a href="s1_3.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Entornos de desarrollo (Jupyter Notebook, Google Colab, Deepnote)
 
 ## Semana 2: Ciclo de vida de los datos
 
 - Recopilación de datos
-    * Fuentes de datos (Web Scraping) <a href="pdf/s2_1.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s2_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Fuentes de datos (Web Scraping) <a href="pdf/pdf2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s2_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Limpieza y preparación de datos
-    * Tratamiento de datos faltantes y duplicados (pandas) <a href="pdf/s2_2.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s2_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Transformación y normalización de datos (pandas) <a href="pdf/s2_3.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s2_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Tratamiento de datos faltantes y duplicados (pandas) <a href="pdf/pdf2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s2_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Transformación y normalización de datos (pandas) <a href="pdf/s2_3.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s2_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Almacenamiento de datos
-    * Leer y Grabar datasets en csv, excel, json e txt <a href="pdf/s2_4.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s2_4.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Leer y Grabar datasets en csv, excel, json e txt <a href="pdf/s2_4.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s2_4.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 
 ## Semana 3: Análisis exploratorio de datos (EDA)
 
 - Técnicas EDA
-    * Estadísticas descriptivas <a href="pdf/s3_1.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s3_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Identificación de patrones y tendencias <a href="pdf/s3_2.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s3_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Estadísticas descriptivas <a href="pdf/s3_1.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s3_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Identificación de patrones y tendencias <a href="pdf/s3_2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s3_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Practica con Python
-    * Uso de Pandas y Matplotlib para EDA <a href="pdf/s3_3.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s3_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Uso de Pandas y Matplotlib para EDA <a href="pdf/s3_3.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s3_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 
 ## Semana 4: Visualización de datos
 
 - Principios de visualización de datos
-    * Mejores prácticas y tipos de gráficos <a href="pdf/s4_1.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s4_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Mejores prácticas y tipos de gráficos <a href="pdf/s4_1.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s4_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Herramientas de visualización
-    * Matplotlib, Seaborn, Plotly y otras <a href="pdf/s4_2.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s4_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Matplotlib, Seaborn, Plotly y otras <a href="pdf/s4_2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s4_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Practica con Python
-    * Creación de gráficos y dashboards interactivos <a href="pdf/s4_3.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s4_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Creación de gráficos y dashboards interactivos <a href="pdf/s4_3.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s4_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 
 ## Semana 5: Aprendizaje automático
 
 - Introducción al aprendizaje automático
-    * Aprendizaje supervisado <a href="pdf/s5_1.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Aprendizaje no supervisado <a href="pdf/s5_2.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Aprendizaje por refuerzo <a href="pdf/s5_3.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Aprendizaje supervisado <a href="pdf/s5_1.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_1.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Aprendizaje no supervisado <a href="pdf/s5_2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_2.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Aprendizaje por refuerzo <a href="pdf/s5_3.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_3.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Modelos básicos
-    * Regresión lineal <a href="pdf/s5_4.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_4.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Regresión logística <a href="pdf/s5_5.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_5.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * K-Means <a href="pdf/s5_6.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_6.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Árboles de decisión <a href="pdf/s5_7.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_7.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Regresión lineal <a href="pdf/s5_4.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_4.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Regresión logística <a href="pdf/s5_5.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_5.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * K-Means <a href="pdf/s5_6.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_6.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Árboles de decisión <a href="pdf/s5_7.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_7.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Practica con Python
-    * Implementación del modelo usando Scikit-Learn <a href="pdf/s5_8.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_8.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Evaluación del modelo (métricas de desempeño) <a href="pdf/s5_9.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="s5_9.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Implementación del modelo usando Scikit-Learn <a href="pdf/s5_8.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_8.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Evaluación del modelo (métricas de desempeño) <a href="pdf/s5_9.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="s5_9.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
 
 ## Proyecto Final
 
