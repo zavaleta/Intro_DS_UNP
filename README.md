@@ -22,11 +22,12 @@ Este curso fue estructurado para proporcionar una base sólida en ciencia de dat
     * Principales áreas de aplicación
 - Prácticas con Python
     * Instalación e configuración de Python
-    * Introducción a Markdown <a href="s1_1.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Introducción a Markdown <a href="M1_1_0_markdown.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Introducción a Python: <a href="M1_0_intro_python.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Herramientas y Tecnologías
     * Introducción a Python y sus principales librerías:
-    	* NumPy: <a href="pdf/M1_2_numpy.pdf"><img src="images/pdf.png" alt="pdf" width="20"><a href="s1_2_numpy.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    	* Pandas: <a href="pdf/M1_3_pandas.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a> <a href="s1_3.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    	* NumPy: <a href="pdf/M1_2_numpy.pdf"><img src="images/pdf.png" alt="pdf" width="20"><a href="M1_1_numpy.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    	* Pandas: <a href="pdf/M1_3_pandas.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a> <a href="M1_2_pandas.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
     * Entornos de desarrollo (Jupyter Notebook, Google Colab, Deepnote)
 
 ## Semana 2: Ciclo de vida de los datos
