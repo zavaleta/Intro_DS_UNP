@@ -36,7 +36,7 @@ Este curso fue estructurado para proporcionar una base sólida en ciencia de dat
     * Fuentes de datos (Web Scraping) <a href="pdf/M2_1_webscraping.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="M2_1_WebScraping.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Limpieza y preparación de datos
     * Tratamiento de datos faltantes y duplicados (pandas) <a href="M2_2_0_MD_pandas.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Transformación y normalización de datos (pandas) <a href="M2_2_1_Data_Cleaning.ypnb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Transformación y normalización de datos (pandas) <a href="M2_2_1_Data_Cleaning.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Almacenamiento de datos
     * Leer y Grabar datasets en csv, excel, json e txt
 
