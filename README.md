@@ -43,19 +43,19 @@ Este curso fue estructurado para proporcionar una base sólida en ciencia de dat
 ## Módulo 3: Análisis exploratorio de datos (EDA)
 
 - Técnicas EDA
-    * Estadísticas descriptivas <a href="pdf/s3_1.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
-    * Identificación de patrones y tendencias <a href="pdf/s3_2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Estadísticas descriptivas <a href="pdf/M3_1_EDA.pdf"><img src="images/pdf.png" alt="pdf" width="20"></a>  <a href="M3_0_EDA_visual0.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Identificación de patrones y tendencias <a href="pdf/s.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="M3_1_EDA_visual1.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Practica con Python
-    * Uso de Pandas y Matplotlib para EDA <a href="pdf/s3_3.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Uso de Pandas y Matplotlib para EDA <a href="pdf/s.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="M3_2_EDA_visual2.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 
 ## Módulo 4: Visualización de datos
 
 - Principios de visualización de datos
-    * Mejores prácticas y tipos de gráficos <a href="pdf/s4_1.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Mejores prácticas y tipos de gráficos <a href="pdf/s.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Herramientas de visualización
-    * Matplotlib, Seaborn, Plotly y otras <a href="pdf/s4_2.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Matplotlib, Seaborn, Plotly y otras <a href="pdf/s.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 - Practica con Python
-    * Creación de gráficos y dashboards interactivos <a href="pdf/s4_3.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
+    * Creación de gráficos y dashboards interactivos <a href="pdf/s.pdf"><img src="images/pdf2.png" alt="pdf" width="20"></a>  <a href="nan.ipynb"><img src="images/jupyter.png" alt="png" width="20"></a>
 
 ## Módulo 5: Aprendizaje automático
 
